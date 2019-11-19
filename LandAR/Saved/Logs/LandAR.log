@@ -6763,3 +6763,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.19-03.04.16:370][271]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles.uasset'. Attempt result was '../../../Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles', but the path contains illegal characters '.'
 [2019.11.19-03.04.16:370][271]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay.uasset'. Attempt result was '../../../Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay', but the path contains illegal characters '.'
 [2019.11.19-03.04.16:371][271]EditorErrors: Warning: No assets to check in!
+[2019.11.19-03.08.37:605][511]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.11.19-03.08.37:638][511]LogAssetEditorManager: Opening Asset editor for World /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap
+[2019.11.19-03.08.37:682][511]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.11.19-03.08.37:688][511]Cmd: MAP LOAD FILE="../../../../../../Users/vr/Desktop/lander/LandAR/LandAR/Content/FlyingBP/Maps/FlyingExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.19-03.08.37:688][511]LightingResults: New page: Lighting Build
+[2019.11.19-03.08.37:689][511]LoadErrors: New page: Loading map: FlyingExampleMap.umap
+[2019.11.19-03.08.37:720][511]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-03.08.37:822][511]LogWorld: UWorld::CleanupWorld for UI, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-03.08.37:823][511]MapCheck: New page: Map Check
+[2019.11.19-03.08.37:823][511]LightingResults: New page: Lighting Build
+[2019.11.19-03.08.37:863][511]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.11.19-03.08.37:881][511]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.19-03.08.37:920][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.19-03.08.37:943][511]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.19-03.08.37:943][511]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
+[2019.11.19-03.08.37:943][511]LogFileHelpers: Loading map 'FlyingExampleMap' took 0.261
+[2019.11.19-03.08.41:201][701]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2019.11.19-03.08.43:910][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-03.08.44:265][812]LogSlate: Window 'Source Control Login' being destroyed
