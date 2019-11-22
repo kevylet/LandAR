@@ -1,0 +1,1 @@
+../../../LandAR/LandAR.uproject  /Game/FlyingBP/Maps/FlyingExampleMap -Messaging -SessionId=BD272CC8224EA21DF997B99E93FEC99F -SessionOwner="alopez" -SessionName="Launch On Device" -iterative
